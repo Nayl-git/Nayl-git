@@ -15,10 +15,10 @@
 
 ### About me
 
-- 🎓 **Engineering student in Data & AI** at ESILV (2025–2028, apprenticeship programme), after a bachelor's degree in data science (BUT Science des Données).
-- 💼 **Apprentice data analyst** in telecom expense management since 2024: R pipelines that collect 200–300 telecom invoices a month, steering-committee reporting, and LLM-based skills that cut an audit from 1–2 days to about 2 hours.
-- 🌍 **Looking for a 9–13-week data/AI internship** from May to August 2027, in Canada, the United Kingdom, India, Malaysia or Indonesia.
-- 🗣️ French (native) · English (fluent, TOEIC 955/990) · Spanish (intermediate)
+- **Engineering student in Data & AI** at ESILV (2025–2028, apprenticeship programme), after a bachelor's degree in data science (BUT Science des Données).
+- **Apprentice data analyst** in telecom expense management since 2024: R pipelines that collect 200–300 telecom invoices a month, steering-committee reporting, and LLM-based skills that cut an audit from 1–2 days to about 2 hours.
+- **Looking for a 9–13-week data/AI internship** from May to August 2027, in Canada, the United Kingdom, India, Malaysia or Indonesia.
+- French (native) · English (fluent, TOEIC 955/990) · Spanish (intermediate)
 
 ### Featured projects
 
